@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "qunzhen",
+    "section": "",
+    "text": "Welcome to my website, I am Qun Zhen. I am currently studying in SIT Bachelor in Applied Artificial Intelligence. I will be using this platform to share more about myself. I have done various projects such as web development and data analysis.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site\n\n1 + 1\n\n[1] 2"
+  }
+]

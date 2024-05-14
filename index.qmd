@@ -1,0 +1,7 @@
+---
+title: "qunzhen"
+---
+
+Welcome to my website, I am Qun Zhen. I am currently studying in SIT Bachelor in Applied Artificial Intelligence. I will be using this platform to share more about myself. I have done various projects such as web development and data analysis.
+
+To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
