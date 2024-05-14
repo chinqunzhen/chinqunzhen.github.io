@@ -1,0 +1,13 @@
+---
+title: "Project"
+---
+
+This is the project overview of the tasks that I have worked on throughout the 3 months. I have researched and self-learn using the main program software Python to extract data from Google Analytics and using the data to generate a Business report. I have found other free software such as Google Data Studio, and PowerBI to generate a dashboard of all the datas gathered from Google Analytics.
+
+[fypj](img/fypj.jpg "fypj")
+
+​
+
+The report is generated using fpdf a library to generate pdf in python. I managed to format the header and footer using codes in python which helps to save a lot of time.
+
+{{< videos/datastudio_videotutorial.mp4 width="600" height="400" >}}

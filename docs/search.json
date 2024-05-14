@@ -11,6 +11,13 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About this site\n\n1 + 1\n\n[1] 2"
+    "text": "I enjoy baking."
+  },
+  {
+    "objectID": "project.html",
+    "href": "project.html",
+    "title": "Project",
+    "section": "",
+    "text": "This is the project overview of the tasks that I have worked on throughout the 3 months. I have researched and self-learn using the main program software Python to extract data from Google Analytics and using the data to generate a Business report. I have found other free software such as Google Data Studio, and PowerBI to generate a dashboard of all the datas gathered from Google Analytics.\nfypj\n​\nThe report is generated using fpdf a library to generate pdf in python. I managed to format the header and footer using codes in python which helps to save a lot of time.\n{{&lt; videos/datastudio_videotutorial.mp4 \"600\" \"400\" &gt;}}"
   }
 ]
