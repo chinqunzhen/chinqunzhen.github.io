@@ -3,3 +3,7 @@ title: "About"
 ---
 
 I enjoy baking.
+
+This is the cupcake that I have made.
+
+![cupcake](img/cupcake.jpg){width="200"}
